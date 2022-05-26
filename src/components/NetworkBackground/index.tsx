@@ -24,7 +24,7 @@ type Props = {
 
 const NetworkBackground = ({ list }: Props) => {
   const [currentItemIndex, setCurrentItemIndex] = useState(0)
-  const timeChange = 8000
+  const timeChange = 10000
 
   useEffect(() => {
     let index = 0
