@@ -1,8 +1,8 @@
 <h1 align="center">
-Movie App - Next.JS
+Movie App - Next.Js
 </h1>
 
-<p align="center">A Simple Movie App. Made with React.JS, Next.JS and using <a href="https://www.themoviedb.org/">TMDB Api</a></p>
+<p align="center">A Simple Movie App. Made with React.Js, Next.Js and using <a href="https://www.themoviedb.org/">TMDB Api</a></p>
 <p align="center">Deployed <a href="https://nextflix-app.vercel.app/">here</a>.</p>
 
 <hr>
